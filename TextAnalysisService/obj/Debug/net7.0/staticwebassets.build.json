@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mMB5AKVWtj7OhGp+73dlKIthgUChEhP4G9dbatawpW8=",
+  "Source": "TextAnalysisService",
+  "BasePath": "_content/TextAnalysisService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
